@@ -37,11 +37,5 @@ public class Text01_xishu {
             System.out.println();
         }
 
-            int[] data ={1,2,3};
-        for (int i = 0; i < 10; i++) {
-            System.out.printf("%d\t",i);
-
-        }
-
     }
 }
