@@ -37,6 +37,8 @@ public class Text01_xishu {
             System.out.println();
         }
         System.out.println("1");
+        System.out.println("master");
         System.out.println("hot-fix");
+        System.out.println("push");
     }
 }
